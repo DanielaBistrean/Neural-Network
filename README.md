@@ -1,2 +1,2 @@
 # Neural-Network
-Hand written digits recognition using backpropagation training
+Handwritten digits recognition using back-propagation training
